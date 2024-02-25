@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url("./images/drumKitBg.jpg") bottom center;
+  background: url("./images/erwi-rt8nASaIQZA-unsplash.jpg") bottom center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -38,8 +38,8 @@ html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #ff7b00df;
+  box-shadow: 0 0 1rem #3a3627;
 }
 
 kbd {
